@@ -1,0 +1,20 @@
+#title{
+    background-color :#ff4c68;
+}
+.navbar-expand{
+    gap: 10REM;
+}
+section feature{
+    padding-left: 300px;
+
+}
+@media (max-width:800px;){
+}
+    #title {
+        text-align: center;
+    }
+        .title-image {
+            position: static;
+            transform: rotate(0) ;
+        }
+   
